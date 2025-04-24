@@ -57,6 +57,14 @@
 
 ## 🛠️ Skills & Technologies
 
+Languages	Python SQL MySQL
+Machine Learning	Scikit-Learn TensorFlow Neural Networks
+Data Analysis	Pandas NumPy Scikit-learn SciPy
+Visualization	Matplotlib Seaborn Tableau Excel Plotly
+Databases	PostgreSQL MySQL
+Deployment	Heroku Git
+
+
 <!-- Previous table content stays unchanged -->
 
 ---
